@@ -21,9 +21,8 @@
 ## 🕹️ How to Play
 
 ### Controls
-- **Arrow Keys** or **WASD** - Move your bird around the screen
-- **ESC** - Quit the game
-
+- **Arrow Keys** - Move your bird around the screen
+  
 ### Gameplay
 1. **Start the game** and watch the introduction
 2. **Move your bird** to avoid the falling rocks
