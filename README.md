@@ -7,6 +7,11 @@
 
 > **A thrilling survival game where you control a brave bird dodging deadly falling rocks!**
 
+### 🎬 Gameplay Demo
+<img src="screenshots/who_threw.gif" alt="Gameplay Demo" width="300">
+
+<img src="screenshots/who_threw.gif" alt="Gameplay Demo" width="300">
+
 ## 🎮 Game Overview
 
 **Who Threw Rocks?** is an exciting arcade-style survival game built with Python and Pygame. Guide your feathered friend through a dangerous sky filled with falling rocks while the timer counts up. How long can you survive the rocky rain?
@@ -19,9 +24,8 @@
 ## 🕹️ How to Play
 
 ### Controls
-- **Arrow Keys** or **WASD** - Move your bird around the screen
-- **ESC** - Quit the game
-
+- **Arrow Keys** - Move your bird around the screen
+  
 ### Gameplay
 1. **Start the game** and watch the introduction
 2. **Move your bird** to avoid the falling rocks
