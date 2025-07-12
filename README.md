@@ -8,7 +8,7 @@
 > **A thrilling survival game where you control a brave bird dodging deadly falling rocks!**
 
 ### 🎬 Gameplay Demo
-<img src="screenshots/who_threw.gif" alt="Gameplay Demo" width="400">
+<img src="screenshots/who_threw.gif" alt="Gameplay Demo" width="300">
 
 ## 🎮 Game Overview
 
