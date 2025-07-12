@@ -10,7 +10,7 @@
 ### 🎬 Gameplay Demo
 <img src="screenshots/who_threw.gif" alt="Gameplay Demo" width="300">
 
-<img src="screenshots/who_threw.gif" alt="Gameplay Demo" width="300">
+<img src="screenshots/logo.png" alt="Gameplay Demo" width="300">
 
 ## 🎮 Game Overview
 
